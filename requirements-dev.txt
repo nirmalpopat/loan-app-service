@@ -1,0 +1,8 @@
+-r requirements.txt
+pytest
+pytest-asyncio
+httpx
+redis
+kafka-python
+psycopg2-binary
+python-dotenv
